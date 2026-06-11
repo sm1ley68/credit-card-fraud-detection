@@ -12,6 +12,10 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-demo-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![PR-AUC](https://img.shields.io/badge/PR--AUC-0.876-success)](#-результаты)
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://credit-card-fraud-detection-sm1ley.streamlit.app/)
+
+**[🚀 Открыть интерактивное демо →](https://credit-card-fraud-detection-sm1ley.streamlit.app/)**
+
 </div>
 
 ---
@@ -74,6 +78,8 @@
 - **Оптимальный порог зависит от стоимости ошибок.** Пропустить мошенника дорого (теряется сумма транзакции), ложно заблокировать честного — дёшево (звонок в поддержку). Поэтому cost-sensitive анализ показывает, что **оптимум обычно лежит ниже 0.5**, а единственно «правильного» порога не существует — он диктуется бизнесом.
 
 ## 🚀 Демо
+
+> **Живое демо:** **[credit-card-fraud-detection-sm1ley.streamlit.app](https://credit-card-fraud-detection-sm1ley.streamlit.app/)**
 
 Интерактивное приложение на **Streamlit**: выбираешь тип транзакции (мошенническая / честная / сомнительная), двигаешь порог классификации и наблюдаешь, как меняется решение модели. Особенно показательны «сомнительные» примеры (вероятность 0.2–0.8) — на них видно, зачем вообще нужен настраиваемый порог.
 
