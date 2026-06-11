@@ -1,0 +1,49 @@
+# --- Data (не коммитим датасет: размер + лицензия) ---
+creditcard.csv
+*.csv
+data/
+*.parquet
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# --- Optuna / эксперименты ---
+*.db
+optuna*.log
+mlruns/
+.cache/
+
+# --- Streamlit ---
+.streamlit/secrets.toml
+
+# --- IDE ---
+.idea/
+.vscode/
+*.swp
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- Tooling ---
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
