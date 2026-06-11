@@ -12,7 +12,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-demo-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![PR-AUC](https://img.shields.io/badge/PR--AUC-0.876-success)](#-результаты)
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://credit-card-fraud-detection-sm1ley.streamlit.app/)
+[![Open in Streamlit](https://img.shields.io/badge/🚀_Open_in-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)](https://credit-card-fraud-detection-sm1ley.streamlit.app/)
 
 **[🚀 Открыть интерактивное демо →](https://credit-card-fraud-detection-sm1ley.streamlit.app/)**
 
